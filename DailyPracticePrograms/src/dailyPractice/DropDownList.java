@@ -10,6 +10,8 @@ public class DropDownList {
 		WebDriver driver= new ChromeDriver();
 		System.out.println("sandip");
 		System.out.println("Wakade");
+		System.out.println("pune");
+		System.out.println("maharashtra");
 	}
 
 }
